@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-# Shishir Barai
-
-Structural Analysis Engineer | FEA | Machine Learning | Computational Mechanics
-
 ![Profile Photo](MyPhoto2.JPG)
 
 ## About Me
