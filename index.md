@@ -2,7 +2,7 @@
 
 Structural Analysis Engineer | FEA | Machine Learning | Computational Mechanics
 
-![Profile Photo](profile.jpg)
+![Profile Photo](MyPhoto2.JPG)
 
 ## About Me
 
@@ -29,7 +29,7 @@ My interests include:
 
 - [LinkedIn](https://www.linkedin.com/in/shishir-barai/)
 - [Google Scholar](https://scholar.google.com/citations?user=L8pNussAAAAJ)
-- [Download Resume](resume.pdf)
+- [Download Resume](Resume_Barai_Shishir.pdf)
 
 ---
 
