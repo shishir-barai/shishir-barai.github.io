@@ -450,11 +450,11 @@ body {
     </div>
     <div class="skill-card">
       <h4>Optimization & DOE</h4>
-      <p>Ansys optiSLang, Parametric Modeling, Design of Experiments (DOE)</p>
+      <p>Ansys optiSLang, Parametric Modeling, Design of Experiments</p>
     </div>
     <div class="skill-card">
       <h4>ML for Simulation</h4>
-      <p>CNNs, Autoencoders, TensorFlow, PyTorch, Scikit-learn, Numpy, Pandas</p>
+      <p>Autoencoders, TensorFlow, PyTorch, Scikit-learn, Numpy, Pandas</p>
     </div>
     <div class="skill-card">
       <h4>CAD & Modeling</h4>
@@ -527,11 +527,11 @@ body {
       <div class="exp-meta">May 2025 – Aug 2025<br>San Diego, CA</div>
     </div>
     <ul>
-      <li>Built a fully automated parametric CAD-to-simulation pipeline in Abaqus with 40 geometric design variables for EUV nozzle design.</li>
+      <li>Built a fully automated parametric CAD-to-simulation pipeline in Abaqus for an EUV nozzle design.</li>
       <li>Scripted meshing, boundary conditions, solver settings, and post-processing using Abaqus Python API.</li>
       <li>Integrated Ansys optiSLang for DOE sampling, parameter sweeps, and performance-driven optimization.</li>
       <li>Conducted steady-state dynamic simulations to evaluate pressure response and maximize droplet formation.</li>
-      <li>Delivered a modular, reusable automation framework; significantly reducing manual CAD-simulation iteration time.</li>
+      <li>Delivered a modular, reusable automation framework, significantly reducing manual design iteration time.</li>
     </ul>
   </div>
 
@@ -544,8 +544,8 @@ body {
       <div class="exp-meta">Jun 2024 – Aug 2024<br>Canonsburg, PA</div>
     </div>
     <ul>
-      <li>Developed a modular Python class to automate nonlinear FEA simulations and material calibration workflows using PyAnsys MAPDL.</li>
-      <li>Applied Periodic Boundary Conditions on RVEs to extract homogenized hyperelastic material properties (Mooney-Rivlin, Ogden).</li>
+      <li>Developed a Python class to automate nonlinear FEA simulations and material calibration workflows using PyAnsys.</li>
+      <li>Applied Periodic Boundary Conditions on RVEs to extract homogenized material properties (Mooney-Rivlin, Ogden).</li>
       <li>Integrated Ansys Material Library (AML) for stress-strain data calibration and parameter verification.</li>
       <li>Built a flexible configuration system for load types, solver settings, and material definitions.</li>
     </ul>
@@ -572,7 +572,7 @@ body {
     <ul>
       <li>Developed a Python class to generate two-phase microstructures with randomized particle distributions.</li>
       <li>Implemented linear elasticity FEA in MOOSE covering uniaxial tension, biaxial tension, and compression.</li>
-      <li>Captured full displacement field data as training datasets for reduced order surrogate models.</li>
+      <li>Captured full displacement field data as training datasets for reduced-order surrogate models.</li>
     </ul>
   </div>
 
@@ -587,7 +587,7 @@ body {
       </div>
     </div>
     <ul>
-      <li>Trained CNN-based model to directly map microstructure inputs to FEA displacement fields.</li>
+      <li>Trained a CNN-based model to map microstructure inputs to FEA displacement fields directly.</li>
       <li>Built a convolutional autoencoder to compress high-dimensional FEA datasets by <strong>94%</strong>.</li>
       <li>Surrogate model trained on compressed latent space reduced overall training time by <strong>75%</strong>.</li>
       <li>Optimized training pipeline on a Linux-based Slurm HPC cluster.</li>
@@ -604,7 +604,7 @@ body {
       </div>
     </div>
     <ul>
-      <li>Conducted transient structural analysis of rectangular plates under impulsive loading in COMSOL Multiphysics.</li>
+      <li>Conducted transient structural analysis of rectangular plates under impulsive loading in COMSOL.</li>
       <li>Implemented weak form PDE formulations; analyzed stress distributions and dynamic response.</li>
       <li>Verified FEM accuracy using Method of Manufactured Solutions against analytical solutions.</li>
     </ul>
